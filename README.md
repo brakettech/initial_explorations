@@ -1,4 +1,4 @@
-#Initial Exploration
+# Initial Exploration
 
 This repo will probably hold mostly noteoboks to do
 first-look type explorations of preliminary datasets.
